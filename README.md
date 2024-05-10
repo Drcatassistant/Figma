@@ -36,6 +36,7 @@ Figma
 
 
 ## OUTPUT:
+![image](https://github.com/Drcatassistant/Figma/assets/144364462/9384f90a-e1bd-496b-a168-49561dfe10b1)
 
 
 ## RESULT:
